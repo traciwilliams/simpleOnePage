@@ -13,7 +13,7 @@ N/A
 
 ## Versioning
 
-0.0.1 - Work in progress 
+0.0.1 - Work in progress - next step to add a better background image and photo
 
 ## Authors 
 
