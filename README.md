@@ -8,8 +8,9 @@ N/A
 
 ## Technologies
 
--HTML 
--CSS 
+HTML 
+
+CSS 
 
 ![screenshot of one page website](styles/images/screenshot.png)
 
