@@ -1,0 +1,32 @@
+body {
+  text-align: center;
+  background: url("images/blueChicagoRiver.jpg");
+  background-size: cover;
+  background-position: center;
+  color: white;
+  font-family: helvetica;
+}
+
+p {
+  font-size: 22px;
+}
+
+input {
+  border: 0;
+  padding: 10px;
+  font-size: 18px;
+  background-color: grey;
+  color: white;
+}
+
+input[type="submit"] {
+  background: yellow;
+  color: black;
+}
+
+footer {
+  margin: 0 auto;
+  padding-top: 220px;
+  //background-color: red;
+}
+
