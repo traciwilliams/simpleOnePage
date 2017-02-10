@@ -1,32 +1,47 @@
 body {
   text-align: center;
-  background: url("images/blueChicagoRiver.jpg");
+  background: url("images/chicago-skyline.jpg");
   background-size: cover;
   background-position: center;
   color: white;
-  font-family: helvetica;
+  
 }
 
 p {
-  font-size: 22px;
+  font-size: 56px;
+  //font-family: 'Libre Franklin', sans-serif; 
+  font-family: 'Poiret One', cursive;
+  color: #f24524;
+  padding-top: 30px;
+  //background-color: red;
 }
+#fieldsOfInput {
+  //background-color: red;
 
+}
 input {
   border: 0;
-  padding: 10px;
+  margin-top: 250px;
+  padding: 10px 10px 10px 10px;
   font-size: 18px;
-  background-color: grey;
-  color: white;
+  //background-color: #bdb8e3;
+  background-color: #212122;
+  color: red;
+  font-family: 'Poiret One', cursive;
 }
 
 input[type="submit"] {
-  background: yellow;
-  color: black;
+  background: #1b1045;
+  //background: #eca74c;
+  color: white;
+  font-family: 'Poiret One', cursive;
+
 }
 
 footer {
   margin: 0 auto;
-  padding-top: 220px;
-  //background-color: red;
+  padding-top: 100px;
+  font-family: 'Poiret One', cursive;
+  //color: #f24524;
 }
 
