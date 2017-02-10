@@ -11,7 +11,7 @@ N/A
 -HTML 
 -CSS 
 
-[screenshot of one page website]("styles/images/screenshot.png")
+![screenshot of one page website](styles/images/screenshot.png)
 
 ## Versioning
 
